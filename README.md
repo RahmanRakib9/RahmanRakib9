@@ -6,24 +6,10 @@
 ### Glad to see you here!  
 I love building strong backend systems. Currently, I'm freelancing on a Hospital Management System where I implemented user management, organized data for hospital units and beds, and laid the groundwork for future functionalities (confidentiality prevents sharing the full project). 
 Beyond backend expertise, I also possess a creative spark during the NASA Space App Challenge, I brainstormed ideas and even oversaw the frontend development. We successfully integrated NASA's Open API, achieving Regional Champion status. This experience showcases my adaptability and ability to contribute in different areas. Currently, I'm also focusing on improving my front-end skills.  
+
+
+
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
