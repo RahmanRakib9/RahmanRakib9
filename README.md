@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakibur Rahman Rakib
 
-💻 Backend Engineer |🎓 Final Year Computer Science Student 
+💻 Backend Engineer | 🎓 Final Year Computer Science Student 
 
 ---
 
