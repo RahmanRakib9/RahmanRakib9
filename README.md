@@ -2,14 +2,6 @@
 
 💻 Backend Engineer | 🎓 Final Year Computer Science Student 
 
----
-
-## 📈 GitHub Stats
-
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibrahman&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Let's Connect
 
 - 📩 Email: rakibur.rahman.rakibb@gmail.com  
